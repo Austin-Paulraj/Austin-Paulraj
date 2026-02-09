@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on using DL Convolutional architectures to<br>understand intention, form and style in 2D art<br>🌱 I’m currently learning in-depth deep architectural implementation in Pytorch, including<br>model types, specialized training loops and RAG methods.
+🔭 I’m currently working on using DL Convolutional architectures to understand intention, form and style in 2D art<br>🌱 I’m currently learning in-depth deep architectural implementation in Pytorch, including model types, specialized training loops and RAG methods.
 
 
 ## 🌐 Socials:
